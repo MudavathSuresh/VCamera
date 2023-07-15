@@ -1,6 +1,9 @@
 # VCamera
-**This is an open source for android virtual camera.**  
-*Just for fun or protect your camera privacy.*
+*Just for fun or protect your camera privacy.*  
+
+This is a powerful app that allows you to replace the camera with the video you specify.  </b>  
+For example, when you are on a video call with a friend, what they see is the video you provide, not the camera's capture. How interesting that would be!  </b>    
+This App can be used in both Apps and Games. Such as WhatsApp, IMO, Twitch, etc.
 
 # Note
 **The source code has stopped updating on December 31, 2022.**  
@@ -16,7 +19,6 @@
 **1. Support replacing the camera with a photo.**  
 **2. Support replacing the camera with video.**  
 **3. Support to replace the camera with network video.**  
-**4. Support to replace the camera with network video.**  
 **4. Support resizing video, rotating, moving, zooming, flipping, etc.**  
 
 
