@@ -27,7 +27,7 @@ This App can be used in both Apps and Games. Such as WhatsApp, IMO, Twitch, etc.
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.0.1**
+**Latest version : 3.1.0**
 
 [Github](https://github.com/andvipgroup/VCamera/releases)
 
