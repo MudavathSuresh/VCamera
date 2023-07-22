@@ -27,9 +27,12 @@ This App can be used in both Apps and Games. Such as WhatsApp, IMO, Twitch, etc.
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.1.0**
+**Latest version : 3.1.0**  
+<p align="left">
+  <a href='https://play.google.com/store/apps/details?id=virtual.camera.app'>
+    <img alt='Get it on Google Play' height='90' src='https://github.com/andvipgroup/VCamera/blob/main/gp.png'/>
+  </a>
+</p>
 
-[Github](https://github.com/andvipgroup/VCamera/releases)
-
-[Google Play](https://play.google.com/store/apps/details?id=virtual.camera.app)
-
+# Release History
+[History](https://github.com/andvipgroup/VCamera/releases)
