@@ -15,9 +15,8 @@ For example, when you are on a video call with a friend, what they see is the vi
 
 
 # Note
-**The source code has stopped updating on December 31, 2022.**  
-*It may not compile or run now.*  
-*It may be released as an SDK in the future.*
+**The source code 1.0.0 has stopped updating on December 31, 2022.**  
+*It can not compile and run now.*  
 
 
 # Demo Video
