@@ -3,8 +3,6 @@
 
 This is a powerful app that allows you to replace the camera with the video you specify.  </b>  
 For example, when you are on a video call with a friend, what they see is the video you provide, not the camera's capture. How interesting that would be!  </b>    
-This App can be used in both Apps and Games. Such as WhatsApp, IMO, Twitch, etc.
-
 
 # Scenes to be used:
 1. Protect the privacy of the camera and prevent some apps from maliciously taking pictures.  
