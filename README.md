@@ -5,6 +5,17 @@ This is a powerful app that allows you to replace the camera with the video you 
 For example, when you are on a video call with a friend, what they see is the video you provide, not the camera's capture. How interesting that would be!  </b>    
 This App can be used in both Apps and Games. Such as WhatsApp, IMO, Twitch, etc.
 
+
+# Scenes to be used:
+1. Protect the privacy of the camera and prevent some apps from maliciously taking pictures.  
+2. Live Assistant. Similar to OBS, but may be better than OBS, can be used for Twitch, Youtube, Facebook, etc.  
+3. Entertainment among friends. How fun it would be to record a hilarious video to prank your friends. 
+4. It can also prevent girlfriend video call checks. Think about it, you and your friends are drinking and singing outside, and then your girlfriend's video call comes, You can easily video with her to avoid a big war...   
+
+**Notice:**  
+**Please strictly abide by the laws and regulations. It is strictly forbidden to use this APP for any illegal activities, otherwise you will bear the consequences.**  
+
+
 # Note
 **The source code has stopped updating on December 31, 2022.**  
 *It may not compile or run now.*  
