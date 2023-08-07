@@ -35,7 +35,7 @@ For example, when you are on a video call with a friend, what they see is the vi
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.1.0**  
+**Latest version : 3.2.0**  
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=virtual.camera.app'>
     <img alt='Get it on Google Play' height='90' src='https://github.com/andvipgroup/VCamera/blob/main/gp.png'/>
